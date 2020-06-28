@@ -1,0 +1,4 @@
+﻿  可读可写.cpp
+E:\desktop\malloc\malloc\可读可写.cpp(72,1): warning C4326: “main”的返回类型应为“int”而非“void”
+源.obj : error LNK2005: _main 已经在 可读可写.obj 中定义
+E:\desktop\malloc\Debug\malloc.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
